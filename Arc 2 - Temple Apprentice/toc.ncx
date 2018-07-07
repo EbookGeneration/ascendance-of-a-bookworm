@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+	<head>
+		<meta content="3195f6ef-a1bf-4869-a188-a94748d62861" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="calibre (3.27.1)" name="dtb:generator"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text>Ascendance of a Bookworm</text>
+	</docTitle>
+	<navMap>
+		<navPoint class="chapter" id="num_78" playOrder="78">
+			<navLabel>
+				<text>078 - Prologue</text>
+			</navLabel>
+			<content src="text/part0078.html#body-78"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_79" playOrder="79">
+			<navLabel>
+				<text>079 - The Rite of Vows and The Attendants</text>
+			</navLabel>
+			<content src="text/part0079.html#body-79"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_80" playOrder="80">
+			<navLabel>
+				<text>080 - A Priestess's Duties</text>
+			</navLabel>
+			<content src="text/part0080.html#body-80"/>
+		</navPoint>
+	</navMap>
+</ncx>

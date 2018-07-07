@@ -1,0 +1,56 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Temple Apprentice</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Kazuki, Miya">Miya Kazuki</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">3195f6ef-a1bf-4869-a188-a94748d62861</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;http://blastron01.tumblr.com/honzuki-contents&lt;/font&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;Translation by blastron01&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;Chapters 01 to 77&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+    <dc:publisher>www.ff2ebook.com</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (3.27.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">3195f6ef-a1bf-4869-a188-a94748d62861</dc:identifier>
+    <meta name="calibre:timestamp" content="2018-07-06T16:52:38.790000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Daughter of a Soldier"/>
+    <meta content="horizontal-lr" name="primary-writing-mode"/>
+    <meta name="calibre:author_link_map" content="{&quot;Miya Kazuki&quot;: &quot;&quot;}"/>
+    <meta name="calibre:series" content="Ascendance of a Bookworm"/>
+    <meta name="calibre:series_index" content="1.0"/>
+  </metadata>
+  <manifest>
+    <item href="text/part0000.html" id="page-0" media-type="application/xhtml+xml"/>
+    <item href="text/cover1.xhtml" id="cover-html-1" media-type="application/xhtml+xml"/>
+    <item href="text/cover2.xhtml" id="cover-html-2" media-type="application/xhtml+xml"/>
+    <item href="text/cover3.xhtml" id="cover-html-3" media-type="application/xhtml+xml"/>
+    <item href="text/cover4.xhtml" id="cover-html-4" media-type="application/xhtml+xml"/>
+    <item href="text/part0078.html" id="page-78" media-type="application/xhtml+xml"/>
+    <item href="text/part0079.html" id="page-79" media-type="application/xhtml+xml"/>
+    <item href="text/part0080.html" id="page-80" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="style/cover.css" id="css_cover" media-type="text/css"/>
+    <item href="style/text.css" id="css_text" media-type="text/css"/>
+    <item href="images/cover_1.jpg" id="cover-1" media-type="image/jpeg"/>
+    <item href="images/cover_2.jpg" id="cover-2" media-type="image/jpeg"/>
+    <item href="images/cover_3.jpg" id="cover-3" media-type="image/jpeg"/>
+    <item href="images/cover_4.jpg" id="cover-4" media-type="image/jpeg"/>
+    <item href="images/cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="page-0"/>
+    <itemref idref="cover-html-1"/>
+    <itemref idref="page-78"/>
+    <itemref idref="page-79"/>
+    <itemref idref="page-80"/>
+    <itemref idref="cover-html-2"/>
+    <itemref idref="cover-html-3"/>
+    <itemref idref="cover-html-4"/>
+  </spine>
+  <guide>
+    <reference href="text/part0000.html#body-0" title="Title Page" type="title-page"/>
+    <reference href="text/cover1.xhtml" title="Cover 1" type="cover"/>
+    <reference href="text/cover2.xhtml" title="Cover 2" type="cover"/>
+    <reference href="text/cover3.xhtml" title="Cover 3" type="cover"/>
+    <reference href="text/cover4.xhtml" title="Cover 4" type="cover"/>
+  </guide>
+</package>
