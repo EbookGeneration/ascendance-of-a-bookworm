@@ -1,0 +1,483 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+	<head>
+		<meta content="3195f6ef-a1bf-4869-a188-a94748d62861" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="calibre (3.27.1)" name="dtb:generator"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text>Ascendance of a Bookworm</text>
+	</docTitle>
+	<navMap>
+		<navPoint class="chapter" id="num_0" playOrder="0">
+			<navLabel>
+				<text>Ascendance of a Bookworm</text>
+			</navLabel>
+			<content src="text/part0000.html#body-0"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_1" playOrder="1">
+			<navLabel>
+				<text>001 - Prologue</text>
+			</navLabel>
+			<content src="text/part0001.html#body-1"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_2" playOrder="2">
+			<navLabel>
+				<text>002 - A New Life</text>
+			</navLabel>
+			<content src="text/part0002.html#body-2"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_3" playOrder="3">
+			<navLabel>
+				<text>003 - Home Exploration</text>
+			</navLabel>
+			<content src="text/part0003.html#body-3"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_4" playOrder="4">
+			<navLabel>
+				<text>004 - Town Exploration</text>
+			</navLabel>
+			<content src="text/part0004.html#body-4"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_5" playOrder="5">
+			<navLabel>
+				<text>005 - Books: Impossible to acquire</text>
+			</navLabel>
+			<content src="text/part0005.html#body-5"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_6" playOrder="6">
+			<navLabel>
+				<text>006 - Interlude: My sister’s gotten weird</text>
+			</navLabel>
+			<content src="text/part0006.html#body-6"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_7" playOrder="7">
+			<navLabel>
+				<text>007 - Neighborhood Boys</text>
+			</navLabel>
+			<content src="text/part0007.html#body-7"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_8" playOrder="8">
+			<navLabel>
+				<text>008 - Paper: Impossible to acquire</text>
+			</navLabel>
+			<content src="text/part0008.html#body-8"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_9" playOrder="9">
+			<navLabel>
+				<text>009 - Respect for Ancient Egypt</text>
+			</navLabel>
+			<content src="text/part0009.html#body-9"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_10" playOrder="10">
+			<navLabel>
+				<text>010 - Preparing for Winter</text>
+			</navLabel>
+			<content src="text/part0010.html#body-10"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_11" playOrder="11">
+			<navLabel>
+				<text>011 - Slate: Acquired!</text>
+			</navLabel>
+			<content src="text/part0011.html#body-11"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_12" playOrder="12">
+			<navLabel>
+				<text>012 - Defeated by Ancient Egypt</text>
+			</navLabel>
+			<content src="text/part0012.html#body-12"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_13" playOrder="13">
+			<navLabel>
+				<text>013 - Interlude: My Savior</text>
+			</navLabel>
+			<content src="text/part0013.html#body-13"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_14" playOrder="14">
+			<navLabel>
+				<text>014 - Otto’s Assistant</text>
+			</navLabel>
+			<content src="text/part0014.html#body-14"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_15" playOrder="15">
+			<navLabel>
+				<text>015 - Tory’s Hair Ornaments</text>
+			</navLabel>
+			<content src="text/part0015.html#body-15"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_16" playOrder="16">
+			<navLabel>
+				<text>016 - Bring Me To The Forest</text>
+			</navLabel>
+			<content src="text/part0016.html#body-16"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_17" playOrder="17">
+			<navLabel>
+				<text>017 - Three Cheers for Mesopotamia!</text>
+			</navLabel>
+			<content src="text/part0017.html#body-17"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_18" playOrder="18">
+			<navLabel>
+				<text>018 - Interlude: Is my daughter a potential criminal?!</text>
+			</navLabel>
+			<content src="text/part0018.html#body-18"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_19" playOrder="19">
+			<navLabel>
+				<text>019 - Clay Tablets: Also no good</text>
+			</navLabel>
+			<content src="text/part0019.html#body-19"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_20" playOrder="20">
+			<navLabel>
+				<text>020 - Tory’s Baptismal Ceremony</text>
+			</navLabel>
+			<content src="text/part0020.html#body-20"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_21" playOrder="21">
+			<navLabel>
+				<text>021 - I’m Making Mokkan!</text>
+			</navLabel>
+			<content src="text/part0021.html#body-21"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_22" playOrder="22">
+			<navLabel>
+				<text>022 - Ink Making and Mokkan: The Conclusion</text>
+			</navLabel>
+			<content src="text/part0022.html#body-22"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_23" playOrder="23">
+			<navLabel>
+				<text>023 - Cooking Tribulations</text>
+			</navLabel>
+			<content src="text/part0023.html#body-23"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_24" playOrder="24">
+			<navLabel>
+				<text>024 - The Road to the Meeting</text>
+			</navLabel>
+			<content src="text/part0024.html#body-24"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_25" playOrder="25">
+			<navLabel>
+				<text>025 - Meeting With the Merchant</text>
+			</navLabel>
+			<content src="text/part0025.html#body-25"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_26" playOrder="26">
+			<navLabel>
+				<text>026 - Interlude: My Assistant</text>
+			</navLabel>
+			<content src="text/part0026.html#body-26"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_27" playOrder="27">
+			<navLabel>
+				<text>027 - The Road to Washi</text>
+			</navLabel>
+			<content src="text/part0027.html#body-27"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_28" playOrder="28">
+			<navLabel>
+				<text>028 - The Invitation To Otto’s Residence</text>
+			</navLabel>
+			<content src="text/part0028.html#body-28"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_29" playOrder="29">
+			<navLabel>
+				<text>029 - Benno’s Summons</text>
+			</navLabel>
+			<content src="text/part0029.html#body-29"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_30" playOrder="30">
+			<navLabel>
+				<text>030 - Contract Magic</text>
+			</navLabel>
+			<content src="text/part0030.html#body-30"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_31" playOrder="31">
+			<navLabel>
+				<text>031 - Lutz’s Most Important Duty</text>
+			</navLabel>
+			<content src="text/part0031.html#body-31"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_32" playOrder="32">
+			<navLabel>
+				<text>032 - Material and Tool Orders</text>
+			</navLabel>
+			<content src="text/part0032.html#body-32"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_33" playOrder="33">
+			<navLabel>
+				<text>033 - Starting Paper Making</text>
+			</navLabel>
+			<content src="text/part0033.html#body-33"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_34" playOrder="34">
+			<navLabel>
+				<text>034 - A Regretful Mistake</text>
+			</navLabel>
+			<content src="text/part0034.html#body-34"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_35" playOrder="35">
+			<navLabel>
+				<text>035 - Lutz's Maine</text>
+			</navLabel>
+			<content src="text/part0035.html#body-35"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_36" playOrder="36">
+			<navLabel>
+				<text>036 - Paper's Completion</text>
+			</navLabel>
+			<content src="text/part0036.html#body-36"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_37" playOrder="37">
+			<navLabel>
+				<text>037 - The Merchant's Guild</text>
+			</navLabel>
+			<content src="text/part0037.html#body-37"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_38" playOrder="38">
+			<navLabel>
+				<text>038 - The Guild Leader and the Hairpin</text>
+			</navLabel>
+			<content src="text/part0038.html#body-38"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_39" playOrder="39">
+			<navLabel>
+				<text>039 - The Guild Leader's Granddaughter</text>
+			</navLabel>
+			<content src="text/part0039.html#body-39"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_40" playOrder="40">
+			<navLabel>
+				<text>040 - Freida's Hairpins</text>
+			</navLabel>
+			<content src="text/part0040.html#body-40"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_41" playOrder="41">
+			<navLabel>
+				<text>041 - Hairpin Delivery</text>
+			</navLabel>
+			<content src="text/part0041.html#body-41"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_42" playOrder="42">
+			<navLabel>
+				<text>042 - Winter Handiwork</text>
+			</navLabel>
+			<content src="text/part0042.html#body-42"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_43" playOrder="43">
+			<navLabel>
+				<text>043 - Lutz's Education Plan</text>
+			</navLabel>
+			<content src="text/part0043.html#body-43"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_44" playOrder="44">
+			<navLabel>
+				<text>044 - The Source of the Failure and the Plan To Fix It</text>
+			</navLabel>
+			<content src="text/part0044.html#body-44"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_45" playOrder="45">
+			<navLabel>
+				<text>045 - Tronbay Appears</text>
+			</navLabel>
+			<content src="text/part0045.html#body-45"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_46" playOrder="46">
+			<navLabel>
+				<text>046 - We Made It At Once</text>
+			</navLabel>
+			<content src="text/part0046.html#body-46"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_47" playOrder="47">
+			<navLabel>
+				<text>047 - Interlude: The Power of Money</text>
+			</navLabel>
+			<content src="text/part0047.html#body-47"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_48" playOrder="48">
+			<navLabel>
+				<text>048 - Maine Collapses</text>
+			</navLabel>
+			<content src="text/part0048.html#body-48"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_49" playOrder="49">
+			<navLabel>
+				<text>049 - Discussing the Devouring With Freida</text>
+			</navLabel>
+			<content src="text/part0049.html#body-49"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_50" playOrder="50">
+			<navLabel>
+				<text>050 - Making Cakes With Freida</text>
+			</navLabel>
+			<content src="text/part0050.html#body-50"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_51" playOrder="51">
+			<navLabel>
+				<text>051 - Taking a Bath With Freida</text>
+			</navLabel>
+			<content src="text/part0051.html#body-51"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_52" playOrder="52">
+			<navLabel>
+				<text>052 - Freida's Baptismal Ceremony</text>
+			</navLabel>
+			<content src="text/part0052.html#body-52"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_53" playOrder="53">
+			<navLabel>
+				<text>053 - The Beginning of Winter</text>
+			</navLabel>
+			<content src="text/part0053.html#body-53"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_54" playOrder="54">
+			<navLabel>
+				<text>054 - Finishing My Dress and Hairpins</text>
+			</navLabel>
+			<content src="text/part0054.html#body-54"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_55" playOrder="55">
+			<navLabel>
+				<text>055 - Lutz's Tutor</text>
+			</navLabel>
+			<content src="text/part0055.html#body-55"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_56" playOrder="56">
+			<navLabel>
+				<text>056 - Otto's Consultation Room</text>
+			</navLabel>
+			<content src="text/part0056.html#body-56"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_57" playOrder="57">
+			<navLabel>
+				<text>057 - Family Council</text>
+			</navLabel>
+			<content src="text/part0057.html#body-57"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_58" playOrder="58">
+			<navLabel>
+				<text>058 - Reporting to Lutz</text>
+			</navLabel>
+			<content src="text/part0058.html#body-58"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_59" playOrder="59">
+			<navLabel>
+				<text>059 - Working Towards Resuming Paper-Making</text>
+			</navLabel>
+			<content src="text/part0059.html#body-59"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_60" playOrder="60">
+			<navLabel>
+				<text>060 - Vested Interests</text>
+			</navLabel>
+			<content src="text/part0060.html#body-60"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_61" playOrder="61">
+			<navLabel>
+				<text>061 - Result of the Meetings with the Vested Interests</text>
+			</navLabel>
+			<content src="text/part0061.html#body-61"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_62" playOrder="62">
+			<navLabel>
+				<text>062 - Workshop Selection and Tools</text>
+			</navLabel>
+			<content src="text/part0062.html#body-62"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_63" playOrder="63">
+			<navLabel>
+				<text>063 - Lutz's Apprenticeship Preparations</text>
+			</navLabel>
+			<content src="text/part0063.html#body-63"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_64" playOrder="64">
+			<navLabel>
+				<text>064 - Contract with Freida</text>
+			</navLabel>
+			<content src="text/part0064.html#body-64"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_65" playOrder="65">
+			<navLabel>
+				<text>065 - Baptismal Procession</text>
+			</navLabel>
+			<content src="text/part0065.html#body-65"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_66" playOrder="66">
+			<navLabel>
+				<text>066 - A Quiet Uproar</text>
+			</navLabel>
+			<content src="text/part0066.html#body-66"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_67" playOrder="67">
+			<navLabel>
+				<text>067 - Forbidden Paradise</text>
+			</navLabel>
+			<content src="text/part0067.html#body-67"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_68" playOrder="68">
+			<navLabel>
+				<text>068 - Opposition and Persuasion</text>
+			</navLabel>
+			<content src="text/part0068.html#body-68"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_69" playOrder="69">
+			<navLabel>
+				<text>069 - Benno's Lecture</text>
+			</navLabel>
+			<content src="text/part0069.html#body-69"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_70" playOrder="70">
+			<navLabel>
+				<text>070 - Contract Magic and Workshop Registration</text>
+			</navLabel>
+			<content src="text/part0070.html#body-70"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_71" playOrder="71">
+			<navLabel>
+				<text>071 - Countermeasure Meeting and the Temple</text>
+			</navLabel>
+			<content src="text/part0071.html#body-71"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_72" playOrder="72">
+			<navLabel>
+				<text>072 - Settlement</text>
+			</navLabel>
+			<content src="text/part0072.html#body-72"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_73" playOrder="73">
+			<navLabel>
+				<text>073 - Interlude: Visiting Miss Corinna's House</text>
+			</navLabel>
+			<content src="text/part0073.html#body-73"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_74" playOrder="74">
+			<navLabel>
+				<text>074 - Interlude: Recipes for Desserts</text>
+			</navLabel>
+			<content src="text/part0074.html#body-74"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_75" playOrder="75">
+			<navLabel>
+				<text>075 - Interlude: Pound Cake Tasting Party</text>
+			</navLabel>
+			<content src="text/part0075.html#body-75"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_76" playOrder="76">
+			<navLabel>
+				<text>076 - Interlude: Master Benno and I</text>
+			</navLabel>
+			<content src="text/part0076.html#body-76"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_77" playOrder="77">
+			<navLabel>
+				<text>077 - Interlude: A Gatekeeper's Job</text>
+			</navLabel>
+			<content src="text/part0077.html#body-77"/>
+		</navPoint>
+	</navMap>
+</ncx>
