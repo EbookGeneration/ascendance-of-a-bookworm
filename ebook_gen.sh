@@ -1,2 +1,5 @@
 #!/bin/bash
-zip -r "../$(basename "$PWD").epub" -r *
+file="../$(basename "$PWD").epub"
+
+rm -v "$file"
+zip -r "$file" *
