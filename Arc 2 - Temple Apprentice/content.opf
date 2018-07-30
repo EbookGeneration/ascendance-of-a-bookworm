@@ -27,6 +27,8 @@
     <item href="text/part0078.html" id="page-78" media-type="application/xhtml+xml"/>
     <item href="text/part0079.html" id="page-79" media-type="application/xhtml+xml"/>
     <item href="text/part0080.html" id="page-80" media-type="application/xhtml+xml"/>
+    <item href="text/part0081.html" id="page-81" media-type="application/xhtml+xml"/>
+    <item href="text/part0082.html" id="page-82" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
     <item href="style/cover.css" id="css_cover" media-type="text/css"/>
     <item href="style/text.css" id="css_text" media-type="text/css"/>
@@ -42,6 +44,8 @@
     <itemref idref="page-78"/>
     <itemref idref="page-79"/>
     <itemref idref="page-80"/>
+    <itemref idref="page-81"/>
+    <itemref idref="page-82"/>
     <itemref idref="cover-html-2"/>
     <itemref idref="cover-html-3"/>
     <itemref idref="cover-html-4"/>

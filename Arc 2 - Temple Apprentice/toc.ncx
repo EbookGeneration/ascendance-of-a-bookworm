@@ -29,5 +29,17 @@
 			</navLabel>
 			<content src="text/part0080.html#body-80"/>
 		</navPoint>
+		<navPoint class="chapter" id="num_81" playOrder="81">
+			<navLabel>
+				<text>081 - Blue Robes and Differences in Common Knowledge</text>
+			</navLabel>
+			<content src="text/part0081.html#body-81"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_82" playOrder="82">
+			<navLabel>
+				<text>082 - Benno’s Meeting with the Head Priest</text>
+			</navLabel>
+			<content src="text/part0082.html#body-82"/>
+		</navPoint>
 	</navMap>
 </ncx>
